@@ -50,7 +50,7 @@ Write the detailed procedure here 1 type of the progam in quartus software.2 com
 ![Screenshot 2024-11-29 155739](https://github.com/user-attachments/assets/7a983406-6644-402d-8eca-f3a9642a711e)
 
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: barani ss RegisterNumber:24900119
 */
 
 **RTL Schematic**
